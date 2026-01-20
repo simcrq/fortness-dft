@@ -1,0 +1,2424 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://link.aps.org/doi/10.1103/PhysRevLett.105.245502">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0031-9007,%201079-7114"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marianetti</foaf:surname>
+                        <foaf:givenName>C. A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yevick</foaf:surname>
+                        <foaf:givenName>H. G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3945"/>
+        <dc:subject>75%</dc:subject>
+        <dc:title>Failure Mechanisms of Graphene under Tension</dc:title>
+        <dcterms:abstract>Recent experiments established pure graphene as the strongest material known to mankind, further invigorating the question of how graphene fails. Using density functional theory, we reveal the mechanisms of mechanical failure of pure graphene under a generic state of tension at zero temperature. One failure mechanism is a novel soft-mode phonon instability of the K1 mode, whereby the graphene sheet undergoes a phase transition and is driven towards isolated hexagonal rings resulting in a reduction of strength. The other is the usual elastic instability corresponding to a maximum in the stress-strain curve. Our results indicate that finite wave vector soft modes can be the key factor in limiting the strength of monolayer materials.</dcterms:abstract>
+        <dc:date>2010-12-10</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.aps.org/doi/10.1103/PhysRevLett.105.245502</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-09 14:30:29</dcterms:dateSubmitted>
+        <dc:rights>http://link.aps.org/licenses/aps-default-license</dc:rights>
+        <dc:description>titleTranslation: 石墨烯在拉伸载荷下的失效机制
+TLDR: The mechanisms of mechanical failure of pure graphene under a generic state of tension at zero temperature are revealed and results indicate that finite wave vector soft modes can be the key factor in limiting the strength of monolayer materials.</dc:description>
+        <bib:pages>245502</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0031-9007,%201079-7114">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>前两篇精读</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>105</prism:volume>
+        <dc:title>Physical Review Letters</dc:title>
+        <dc:identifier>DOI 10.1103/PhysRevLett.105.245502</dc:identifier>
+        <prism:number>24</prism:number>
+        <dcterms:alternative>Phys. Rev. Lett.</dcterms:alternative>
+        <dc:identifier>ISSN 0031-9007, 1079-7114</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3945">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.aps.org/doi/10.1103/PhysRevB.85.235407">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1098-0121,%201550-235X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Tianshu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3947"/>
+        <dc:title>Ideal strength and phonon instability in single-layer MoS 2</dc:title>
+        <dcterms:abstract>Ideal tensile stress strain relations for single-layer MoS2 are investigated based on first-principle calculation, for biaxial tension and uniaxial tension along zigzag and armchair directions. The predicted ideal tensile strengths and elastic moduli are in excellent agreement with the very recent experimental measurements of Bertolazzi et al. [ACS Nano 5, 9703 (2011)] and Castellanos-Gomez et al. [Adv. Mater. 24, 772 (2012)]. It is identified that the tensile strength of single-layer MoS2 are dictated by out-of-plane soft-mode phonon instability under biaxial tension and uniaxial tension along the armchair direction. This failure mechanism, different from that of the truly two-dimensional material graphene, is attributed to the out-of-plane atomic relaxation upon tensile strain. Investigation of the electronic structures of single-layer MoS2 under tensile strain shows the material becomes an indirect semiconductor at small tensile strain (&lt;2%) and turns into metallic before reaching the ideal tensile strength.</dcterms:abstract>
+        <dc:date>2012-6-4</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.aps.org/doi/10.1103/PhysRevB.85.235407</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-09 14:30:31</dcterms:dateSubmitted>
+        <dc:rights>http://link.aps.org/licenses/aps-default-license</dc:rights>
+        <dc:description>titleTranslation: 单层二硫化钼的理想强度与声子不稳定性</dc:description>
+        <bib:pages>235407</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1098-0121,%201550-235X">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>前两篇精读</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>85</prism:volume>
+        <dc:title>Physical Review B</dc:title>
+        <dc:identifier>DOI 10.1103/PhysRevB.85.235407</dc:identifier>
+        <prism:number>23</prism:number>
+        <dcterms:alternative>Phys. Rev. B</dcterms:alternative>
+        <dc:identifier>ISSN 1098-0121, 1550-235X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3947">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.aip.org/apr/article/12/4/041329/3375563/When-energy-and-information-revolutions-meet-2D">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1931-9401"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Long</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ren</foaf:surname>
+                        <foaf:givenName>Ziqi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Li</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Yihua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Deli</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenName>Junjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Guoying</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3949"/>
+        <dc:title>When energy and information revolutions meet 2D Janus</dc:title>
+        <dcterms:abstract>The depletion of energy sources, worsening environmental issues, and the quantum limitations of integrated circuits for information storage in the post-Moore era are pressing global concerns. Fortunately, two-dimensional (2D) Janus materials, possessing broken spatial symmetry, with emerging non-linear optical response, piezoelectricity, valley polarization, Rashba spin splitting, and more, have established a substantial platform for exploring and applying modifiable physical, chemical, and biological properties in materials science and offered a promising solution for these energy and information issues. To provide researchers with a comprehensive repository of the 2D Janus family, this review systematically summarizes their theoretical predictions, experimental preparations, and modulation strategies. It also reviews the recent advances in tunable properties, applications, and inherent mechanisms in optics, catalysis, piezoelectricity, electrochemistry, thermoelectricity, magnetism, and electronics, with a focus on experimentally realized hexagonal and trigonal Janus structures. Additionally, their current research state is summarized, and potential opportunities and challenges that may arise are highlighted. Overall, this review aims to serve as a valuable resource for designing, fabricating, regulating, and applying 2D Janus systems, both theoretically and experimentally. This review will strongly promote the advanced academic investigations and industrial applications of 2D Janus materials in energy and information fields.</dcterms:abstract>
+        <dc:date>2025-12-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.aip.org/apr/article/12/4/041329/3375563/When-energy-and-information-revolutions-meet-2D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 12:07:17</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 当能源与信息革命相遇二维Janus材料</dc:description>
+        <bib:pages>041329</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1931-9401">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>微信公众号-综述</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>12</prism:volume>
+        <dc:title>Applied Physics Reviews</dc:title>
+        <dc:identifier>DOI 10.1063/5.0306801</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 1931-9401</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3949">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S2950636025003603">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:29506360"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Chengzhi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Xuelian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ye</foaf:surname>
+                        <foaf:givenName>Liangting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Yirui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenName>Hai-Qing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duan</foaf:surname>
+                        <foaf:givenName>Wenhui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3951"/>
+        <dc:title>Design principles and anomalous nonlinear optics of two-dimensional intrinsic Janus structures</dc:title>
+        <dcterms:abstract>Two-dimensional Janus structures have garnered growing attention across multidisciplinary fields. Despite extensive theoretical and experimental efforts, a fundamental design principle for intrinsic Janus materials remains elusive. Here, we introduce a first-principles alloy theory based on cluster expansion, incorporating strong cation-mediated anion-pair repulsion and refined short-range cluster-cluster interactions, to elucidate the formation mechanism of intrinsic Janus structures with a distorted 1T phase amid competing phases. Our approach explains why intrinsic Janus structures are observed in RhSeCl and BiTeI—composed of elements from different groups—and predicts a broad range of 1T-like intrinsic Janus candidates ready for synthesis. Notably, in RhSeCl, we reveal that intrinsic Janus materials can exhibit anomalous second-harmonic generation (SHG) driven by a distinct quantum geometric effect stemming from lattice and chemical-potential mirror asymmetry. Furthermore, an unconventional skin effect emerges in finite-thickness RhSeCl, featuring a hidden bulk SHG response. Our theory paves the way for ab initio design of intrinsic Janus materials, accelerating progress in Janus science.</dcterms:abstract>
+        <dc:date>2026-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S2950636025003603</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 12:07:36</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 二维本征Janus结构的设计原理与反常非线性光学</dc:description>
+        <bib:pages>100368</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:29506360">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>李阳的</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:title>Newton</dc:title>
+        <dc:identifier>DOI 10.1016/j.newton.2025.100368</dc:identifier>
+        <dcterms:alternative>Newton</dcterms:alternative>
+        <dc:identifier>ISSN 29506360</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3951">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202505279">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2198-3844,%202198-3844"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Kefeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Xuelian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheng</foaf:surname>
+                        <foaf:givenName>Puxin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Zhiteng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Penghui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jia</foaf:surname>
+                        <foaf:givenName>Donghan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Shijing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xinyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ye</foaf:surname>
+                        <foaf:givenName>Liangting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xia</foaf:surname>
+                        <foaf:givenName>Shengqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Shuo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gan</foaf:surname>
+                        <foaf:givenName>Tao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Jiong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Jialiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nie</foaf:surname>
+                        <foaf:givenName>Anmin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gou</foaf:surname>
+                        <foaf:givenName>Huiyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3954"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Optimized Synthesis and Characterization of Janus RhSeCl with Uniform Anionic Valences, Nonlinear Optical and Optoelectronic Properties</dc:title>
+        <dcterms:abstract>Abstract
+            The symmetry‐breaking nature of Janus materials enables the design of multifunctional compounds with distinct properties that are inaccessible to traditional materials. However, the limited availability of intrinsically stable Janus materials hinders a complete understanding of their full potential. Here, the first millimeter‐sized Janus material, RhSeCl, is successfully synthesized through the precisely controlled chemical vapor transport (CVT) method. Single‐crystal X‐ray diffraction and high‐resolution transmission electron microscopy analyses reveal the Janus character of RhSeCl, emphasizing its strong correlation with steric hindrance. X‐ray absorption near‐edge structure (XANES) analyses demonstrate the highly unusual oxidation states of Rh and Se, underlining their critical role in determining the formation of the inherent Janus structure. Interestingly, a clear second‐harmonic generation (SHG) is observed in RhSeCl, weakening with the temperature. DFT calculations attribut the strong SHG response to the band nesting effect, with an intensity modulated by the temperature‐dependent interlayer coupling. Notably, its damage threshold surpassed that of Janus MoSSe. Furthermore, devices based on RhSeCl exhibit promising optoelectronic performance at the visible wavelength range of 405–650 nm, showing a great opportunity for solar applications. These findings deepen the understanding of inherent Janus structures, paving the way for the development of new Janus compounds with versatile functionalities in advanced materials.</dcterms:abstract>
+        <dc:date>2025-09</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202505279</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:30:55</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 具有均匀阴离子价态及非线性光学与光电特性的Janus RhSeCl的优化合成与表征
+Citation Key: liuOptimizedSynthesisCharacterization2025</dc:description>
+        <bib:pages>e05279</bib:pages>
+        <z:citationKey>liuOptimizedSynthesisCharacterization2025</z:citationKey>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2198-3844,%202198-3844">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>40精</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>12</prism:volume>
+        <dc:title>Advanced Science</dc:title>
+        <dc:identifier>DOI 10.1002/advs.202505279</dc:identifier>
+        <prism:number>34</prism:number>
+        <dcterms:alternative>Advanced Science</dcterms:alternative>
+        <dc:identifier>ISSN 2198-3844, 2198-3844</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3954">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://xlink.rsc.org/?DOI=D4DT01487A">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1477-9226,%201477-9234"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nowak</foaf:surname>
+                        <foaf:givenName>Domenic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Käppler</foaf:surname>
+                        <foaf:givenName>Erik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knupfer</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Subakti</foaf:surname>
+                        <foaf:givenName>Subakti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lubk</foaf:surname>
+                        <foaf:givenName>Axel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Efremov</foaf:surname>
+                        <foaf:givenName>Dmitriy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rubrecht</foaf:surname>
+                        <foaf:givenName>Bastian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Popov</foaf:surname>
+                        <foaf:givenName>Alexey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koitzsch</foaf:surname>
+                        <foaf:givenName>Andreas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steiner</foaf:surname>
+                        <foaf:givenName>Udo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Büchner</foaf:surname>
+                        <foaf:givenName>Bernd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valldor</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gräßler</foaf:surname>
+                        <foaf:givenName>Nico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hampel</foaf:surname>
+                        <foaf:givenName>Silke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3956"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>⭐⭐⭐⭐⭐</dc:subject>
+        <dc:title>Exploring the heteroanionic 2D materials RhSeCl and RhTeCl as promising semiconductor materials</dc:title>
+        <dcterms:abstract>Heteroanionic materials show potential as 2D semiconductors due to their tunable band gaps, making them excellent candidates for photocatalytic water splitting applications.
+          , 
+            Heteroanionic materials show promising potential as 2D semiconductors due to their tunable band gaps, making them excellent candidates for photocatalytic water splitting applications. We conducted detailed theoretical and experimental analysis of two selected materials by synthesizing crystals through chemical vapor transport and investigating the impact of anion variation on crystal structure and properties. Using powder X-ray diffraction and convergent beam electron diffraction, we elucidated the non-centrosymmetric space groups of these compounds. Thermochemical studies revealed the influence of the crystal structure on the decomposition points of both compounds. Theoretical investigations predict that both materials are indirect bandgap semiconductors, which is confirmed by electron energy loss spectroscopy and photoluminescence studies.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://xlink.rsc.org/?DOI=D4DT01487A</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:30:57</dcterms:dateSubmitted>
+        <dc:description>论文摘要：异质阴离子材料因其可调带隙而展现出作为二维半导体的潜力，是光催化水分解应用的理想候选材料。我们通过化学气相传输法合成晶体，系统研究了阴离子变化对晶体结构与性能的影响，并对两种选定材料进行了详细的理论与实验分析。借助粉末X射线衍射和会聚束电子衍射技术，我们阐明了这些化合物的非中心对称空间群结构。热化学研究表明晶体结构对两种化合物的分解点具有显著影响。理论预测指出这两种材料均为间接带隙半导体，该结论已通过电子能量损失谱与光致发光研究得到证实。
+titleTranslation: 探索异质阴离子二维材料RhSeCl与RhTeCl作为前景广阔的半导体材料</dc:description>
+        <bib:pages>18226-18236</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1477-9226,%201477-9234">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>39精</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>53</prism:volume>
+        <dc:title>Dalton Transactions</dc:title>
+        <dc:identifier>DOI 10.1039/D4DT01487A</dc:identifier>
+        <prism:number>45</prism:number>
+        <dcterms:alternative>Dalton Trans.</dcterms:alternative>
+        <dc:identifier>ISSN 1477-9226, 1477-9234</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3956">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://xlink.rsc.org/?DOI=D2QI02699F">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2052-1553"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nowak</foaf:surname>
+                        <foaf:givenName>Domenic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valldor</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rubrecht</foaf:surname>
+                        <foaf:givenName>Bastian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Froeschke</foaf:surname>
+                        <foaf:givenName>Samuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eltoukhy</foaf:surname>
+                        <foaf:givenName>Samar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Büchner</foaf:surname>
+                        <foaf:givenName>Bernd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hampel</foaf:surname>
+                        <foaf:givenName>Silke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gräßler</foaf:surname>
+                        <foaf:givenName>Nico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3958"/>
+        <dc:subject>⭐⭐⭐⭐⭐</dc:subject>
+        <dc:title>Crystal growth of the 2D Janus rhodium chalcohalide RhSeCl</dc:title>
+        <dcterms:abstract>Here, we report the discovery of the novel 2D Janus material RhSeCl.
+          , 
+            
+              The rapidly growing interest in synthesising 2D Janus materials is supported by the numerous theoretical predictions of the unique properties of this material category. Here, we report the discovery of the novel 2D Janus material RhSeCl, which crystallises in a space group with a hexagonal symmetry,
+              P
+              6
+              3
+              mc
+              , with the unit cell parameters
+              a
+              = 3.48760(10) and
+              c
+              = 11.5791(5) Å. Crystals of RhSeCl exhibit a plate-like morphology, which is typical of 2D materials. We present two methods of synthesising RhSeCl, either as polycrystalline powder
+              via
+              a solid-state reaction or as single crystals
+              via
+              chemical vapour transport, the latter allowing the control of the crystal size and thickness. Using XRD, SEM and EDX, we show that the described method has high reproducibility. The direct deposition of the 2D Janus crystal RhSeCl provides a broader approach to the study of the Janus phenomena and could further be adjusted to other promising element combinations.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://xlink.rsc.org/?DOI=D2QI02699F</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:00</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 二维Janus铑硫卤化合物RhSeCl的晶体生长</dc:description>
+        <bib:pages>2911-2916</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2052-1553">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>38精</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>10</prism:volume>
+        <dc:title>Inorganic Chemistry Frontiers</dc:title>
+        <dc:identifier>DOI 10.1039/D2QI02699F</dc:identifier>
+        <prism:number>10</prism:number>
+        <dcterms:alternative>Inorg. Chem. Front.</dcterms:alternative>
+        <dc:identifier>ISSN 2052-1553</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3958">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/accountsmr.4c00236">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2643-6728,%202643-6728"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zheng</foaf:surname>
+                        <foaf:givenName>Xueqiu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Yi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Yunfan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3960"/>
+        <dc:title>Symmetry Manipulation of Two-Dimensional Semiconductors by Janus Structure</dc:title>
+        <dc:date>2025-02-28</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/accountsmr.4c00236</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:02</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <dc:description>titleTranslation: 通过Janus结构对二维半导体进行对称性调控</dc:description>
+        <bib:pages>124-128</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2643-6728,%202643-6728">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>37精读-综述</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>6</prism:volume>
+        <dc:title>Accounts of Materials Research</dc:title>
+        <dc:identifier>DOI 10.1021/accountsmr.4c00236</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Acc. Mater. Res.</dcterms:alternative>
+        <dc:identifier>ISSN 2643-6728, 2643-6728</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3960">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://xlink.rsc.org/?DOI=D0TA01999B">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2050-7488,%202050-7496"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Lei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Zhenjingfeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gong</foaf:surname>
+                        <foaf:givenName>Tian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pan</foaf:surname>
+                        <foaf:givenName>Ruikun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Huide</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Zhinan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Han</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fu</foaf:surname>
+                        <foaf:givenName>Xiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3962"/>
+        <dc:subject>⭐⭐⭐⭐⭐</dc:subject>
+        <dc:title>Recent advances in emerging Janus two-dimensional materials: from fundamental physics to device applications</dc:title>
+        <dcterms:abstract>Recent advances in emerging Janus two-dimensional materials including fundamental physics, unique properties and potential device applications are reviewed.
+          , 
+            
+              Based on the extensive investigation on graphene and graphene derivatives asymmetrically functionalized with a variety of molecular groups and the concept of Janus materials with asymmetric facial properties, Janus two-dimensional (2D) materials as derivatives of the 2D material family, including Janus graphene, Janus transition metal chalcogenides,
+              etc.
+              , have attracted much attention in recent years. Janus 2D materials have been demonstrated experimentally and theoretically to possess unique properties such as an out-of-plane piezoelectric polarization and strong Rashba effect due to their out-of-plane asymmetry. Here, the recent progress of emerging Janus 2D materials, including Janus graphene, prediction and fabrication of various different Janus 2D materials and Janus 2D van der Waals heterostructures, is presented. The investigations on the unique properties and potential device applications of Janus 2D materials are summarized. Finally, the conclusion and prospects for the future explorations on Janus 2D materials are also provided.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Recent advances in emerging Janus two-dimensional materials</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://xlink.rsc.org/?DOI=D0TA01999B</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:05</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 新兴Janus二维材料的最新进展：从基础物理到器件应用</dc:description>
+        <bib:pages>8813-8830</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2050-7488,%202050-7496">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>36精读-综述</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>8</prism:volume>
+        <dc:title>Journal of Materials Chemistry A</dc:title>
+        <dc:identifier>DOI 10.1039/D0TA01999B</dc:identifier>
+        <prism:number>18</prism:number>
+        <dcterms:alternative>J. Mater. Chem. A</dcterms:alternative>
+        <dc:identifier>ISSN 2050-7488, 2050-7496</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3962">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41427-018-0023-8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1884-4049,%201884-4057"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ng</foaf:surname>
+                        <foaf:givenName>Sze-Wing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noor</foaf:surname>
+                        <foaf:givenName>Nuruzzaman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zheng</foaf:surname>
+                        <foaf:givenName>Zijian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3964"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Graphene-based two-dimensional Janus materials</dc:title>
+        <dcterms:abstract>Two-dimensional (2D) Janus materials with opposing components and properties on two sides have recently attracted fevered attention from various research ﬁelds for use as, for example, oil/water separating membranes, interfacial layers for mass transfer, 2D sensors and actuators. The Janus structure allows for a unidirectional transportation system and programmed response to certain stimuli to be achieved. Graphene, the 2D honeycomb network formed from one atomic layer of carbon atoms, has also received substantial research interest because of its intriguing structure and fascinating properties. The high mechanical strength, ﬂexibility and optical transparency make graphene a unique candidate as a building block of 2D Janus materials through asymmetric modiﬁcation with different functional groups on the graphene surfaces. This article reviews graphene-based 2D Janus materials, starting with a theoretical understanding of the behavior of Janus graphene. Then, different strategies for fabricating Janus graphene and its derivatives are reviewed in detail according to the chemical strategies of the modiﬁcation methods. The applications of graphene-based Janus materials are discussed with a speciﬁc focus on the Janus structures that lead to bandgap engineering, as well as the construction of a responsive system on graphene.</dcterms:abstract>
+        <dc:date>2018-4</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41427-018-0023-8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:07</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 基于石墨烯的二维Janus材料</dc:description>
+        <bib:pages>217-237</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1884-4049,%201884-4057">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>35大致-综述</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>10</prism:volume>
+        <dc:title>NPG Asia Materials</dc:title>
+        <dc:identifier>DOI 10.1038/s41427-018-0023-8</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>NPG Asia Mater</dcterms:alternative>
+        <dc:identifier>ISSN 1884-4049, 1884-4057</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3964">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1002/smll.201802091">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1613-6810,%201613-6829"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Ruiping</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheng</foaf:surname>
+                        <foaf:givenName>Yingchun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3966"/>
+        <dc:title>Recent Progress of Janus 2D Transition Metal Chalcogenides: From Theory to Experiments</dc:title>
+        <dcterms:abstract>Abstract
+            Since the discovery of graphene, 2D materials with various properties have gained increasing attention in fields such as novel electronic, optic, spintronic, and valleytronic devices. As an important derivative of 2D materials, Janus 2D materials, such as Janus transition metal chalcogenides (TMDs), have become a research hot spot in recent years. Janus 2D materials with mirror asymmetry display novel properties, such as the Rashba effect and normal piezoelectric polarization, providing great promise for their application in sensors, actuators, and other electromechanical devices. Here, the current theoretical and experimental progresses made in the development of Janus 2D TMDs, including their structure and stability, electronic properties, fabrication, and the results of their characterization are reported. Finally, the future prospects for the further development of Janus 2D materials are considered.</dcterms:abstract>
+        <dc:date>2018-11</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Recent Progress of Janus 2D Transition Metal Chalcogenides</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/smll.201802091</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:11</dcterms:dateSubmitted>
+        <dc:description>论文摘要：摘要
+自石墨烯发现以来，具有多样化性质的二维材料在新型电子、光学、自旋电子及谷电子器件等领域日益受到关注。作为二维材料的重要衍生物，Janus二维材料（如Janus过渡金属硫族化合物）已成为近年研究热点。具有镜面不对称性的Janus二维材料展现出拉什巴效应、法向压电极化等新颖特性，为传感器、执行器及其他机电设备应用提供了广阔前景。本文系统综述了Janus二维过渡金属硫族化合物在结构与稳定性、电子特性、制备方法及表征结果等方面的理论与实验研究进展，并对该领域未来发展前景进行了展望。
+titleTranslation: Janus二维过渡金属硫族化合物研究进展：从理论到实验
+TLDR: The current theoretical and experimental progresses made in the development of Janus 2D TMDs, including their structure and stability, electronic properties, fabrication, and the results of their characterization are reported.</dc:description>
+        <bib:pages>1802091</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1613-6810,%201613-6829">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>34精读-综述</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>14</prism:volume>
+        <dc:title>Small</dc:title>
+        <dc:identifier>DOI 10.1002/smll.201802091</dc:identifier>
+        <prism:number>45</prism:number>
+        <dcterms:alternative>Small</dcterms:alternative>
+        <dc:identifier>ISSN 1613-6810, 1613-6829</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3966">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acsnano.2c08544">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1936-0851,%201936-086X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dou</foaf:surname>
+                        <foaf:givenName>Kaiying</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Wenhui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenName>Zhonglin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dai</foaf:surname>
+                        <foaf:givenName>Ying</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Baibiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Yandong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3968"/>
+        <dc:title>Theoretical Prediction of Antiferromagnetic Skyrmion Crystal in Janus Monolayer CrSi₂N₂As₂</dc:title>
+        <dcterms:abstract>An antiferromagnetic skyrmion crystal (AF-SkX), a regular array of antiferromagnetic skyrmions, is a fundamental phenomenon in the field of condensed-matter physics. So far, very few proposals have been made to realize the AF-SkX, and most have been based on three-dimensional (3D) materials. Herein, using first-principles calculations and Monte Carlo simulations, we report the identification of AF-SkX in a twodimensional lattice of the Janus monolayer CrSi2N2As2. Arising from the broken inversion symmetry and strong spin−orbit coupling, a large Dzyaloshinskii−Moriya interaction is obtained in the Janus monolayer CrSi2N2As2. This, combined with the geometric frustration of its triangular lattice, gives rise to the skyrmion physics and long-sought AF-SkX in the presence of an external magnetic field. More intriguingly, this system presents two different antiferromagnetic skyrmion phases, and such a phenomenon is distinct from those reported in 3D systems. Furthermore, by contacting with Sc2CO2, the creation and annihilation of AF-SkX in Janus monolayer CrSi2N2As2 can be achieved through ferroelectricity. These findings greatly enrich the research on antiferromagnetic skyrmions.</dcterms:abstract>
+        <dc:date>2023-01-24</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acsnano.2c08544</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:13</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <dc:description>remark: 1
+论文摘要：反铁磁斯格明子晶格（AF-SkX）作为反铁磁斯格明子的规则阵列，是凝聚态物理领域的基础现象。目前实现AF-SkX的方案极少，且大多基于三维材料。本文通过第一性原理计算与蒙特卡洛模拟，首次在Janus单层CrSi&lt;sub&gt;2&lt;/sub&gt;N&lt;sub&gt;2&lt;/sub&gt;As&lt;sub&gt;2&lt;/sub&gt;的二维晶格中预测了AF-SkX的存在。该体系因反演对称性破缺和强自旋-轨道耦合产生了巨大的Dzyaloshinskii-Moriya相互作用，结合其三角晶格的几何阻挫特性，在外磁场作用下诱发了斯格明子物理行为及学界长期探寻的AF-SkX。尤为引人注目的是，该体系呈现出两种不同的反铁磁斯格明子相，此现象与三维体系中的报道截然不同。此外，通过与Sc&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;2&lt;/sub&gt;接触，可借助铁电效应对Janus单层CrSi&lt;sub&gt;2&lt;/sub&gt;N&lt;sub&gt;2&lt;/sub&gt;As&lt;sub&gt;2&lt;/sub&gt;中的AF-SkX进行创生与湮灭。这些发现极大丰富了反铁磁斯格明子的研究体系。
+titleTranslation: Janus单层CrSi₂N₂As₂中反铁磁斯格明子晶格的理论预测</dc:description>
+        <bib:pages>1144-1152</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1936-0851,%201936-086X">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>33大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>17</prism:volume>
+        <dc:title>ACS Nano</dc:title>
+        <dc:identifier>DOI 10.1021/acsnano.2c08544</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>ACS Nano</dcterms:alternative>
+        <dc:identifier>ISSN 1936-0851, 1936-086X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3968">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.nanolett.3c03238">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1530-6984,%201530-6992"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yun-Qin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shang</foaf:surname>
+                        <foaf:givenName>Xiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenName>Qi-Wen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Dai-Song</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xiao-Chun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duan</foaf:surname>
+                        <foaf:givenName>Chun-Gang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3970"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Magnetic and Ferroelectric Manipulation of Valley Physics in Janus Piezoelectric Materials</dc:title>
+        <dcterms:abstract>The realization of multiferroic materials offers the possibility of multifunctional electronic device design. However, the coupling between the multiferroicity and piezoelectricity in Janus materials is rarely reported. In this study, we propose a mechanism for manipulating valley physics by magnetization reversing and ferroelectric switching in multiferroic and piezoelectric material. The ferromagnetic VSiGeP4 monolayer exhibits a large valley polarization up to 100 meV, which can be effectively operated by reversing magnetization. Interestingly, the antiferromagnetic VSiGeP4 bilayers with AB and BA stacking configurations allow the coexistence of valley polarization and ferroelectricity, supporting the proposed strategy for manipulating valley physics via ferroelectric switching and interlayer sliding. In addition, the VSiGeP4 monolayer contains remarkable tunable piezoelectricity regulated by electron correlation U. This study proposes a feasible idea for regulating valley polarization and a general design idea for multifunctional devices with multiferroic and piezoelectric properties, facilitating the miniaturization and integration of nanodevices.</dcterms:abstract>
+        <dc:date>2023-11-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.nanolett.3c03238</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:16</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <dc:description>titleTranslation: Janus压电材料中谷物理的磁性与铁电调控</dc:description>
+        <bib:pages>10013-10020</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1530-6984,%201530-6992">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>30大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>23</prism:volume>
+        <dc:title>Nano Letters</dc:title>
+        <dc:identifier>DOI 10.1021/acs.nanolett.3c03238</dc:identifier>
+        <prism:number>21</prism:number>
+        <dcterms:alternative>Nano Lett.</dcterms:alternative>
+        <dc:identifier>ISSN 1530-6984, 1530-6992</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3970">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.nanolett.8b05050">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>28大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>19</prism:volume>
+                <dc:title>Nano Letters</dc:title>
+                <dc:identifier>DOI 10.1021/acs.nanolett.8b05050</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>Nano Lett.</dcterms:alternative>
+                <dc:identifier>ISSN 1530-6984, 1530-6992</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Chunmei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nie</foaf:surname>
+                        <foaf:givenName>Yihan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sanvito</foaf:surname>
+                        <foaf:givenName>Stefano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Aijun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3972"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>First-Principles Prediction of a Room-Temperature Ferromagnetic Janus VSSe Monolayer with Piezoelectricity, Ferroelasticity, and Large Valley Polarization</dc:title>
+        <dcterms:abstract>Inspired by recent experiments on the successful fabrication of monolayer Janus transition-metal dichalcogenides [Lu, A.-Y.; et al. Nat. Nanotechnol. 2017, 12, (8), 744 and ferromagnetic VSe2 [Bonilla, M.; et al. Nat. Nanotechnol. 2018, 13, (4), 289], we predict a highly stable room-temperature ferromagnetic Janus monolayer (VSSe) by density functional theory methods and further conﬁrmed the stability by a global minimum search with the particle-swarm optimization method. The VSSe monolayer exhibits a large valley polarization due to the broken space- and time-reversal symmetry. Moreover, its low symmetry C3v point group results in giant in-plane piezoelectric polarization. Most interestingly, a strain-driven 90° lattice rotation is found in the magnetic VSSe monolayer with an extremely high reversal strain (73%), indicating an intrinsic ferroelasticity. The combination of piezoelectricity and valley polarization make magnetic 2D Janus VSSe a tantalizing material for potential applications in nanoelectronics, optoelectronics, and valleytronics.</dcterms:abstract>
+        <dc:date>2019-02-13</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.nanolett.8b05050</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:19</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <dc:description>titleTranslation: 基于第一性原理预测具有压电性、铁弹性和大谷极化的室温铁磁Janus VSSe单层材料
+TLDR: A strain-driven 90° lattice rotation is found in the magnetic VSSe monolayer with an extremely high reversal strain, indicating an intrinsic ferroelasticity and the combination of piezoelectricity and valley polarization make magnetic 2D Janus VSSe a tantalizing material for potential applications in nanoelectronics, optoelectronic, and valleytronics.</dc:description>
+        <bib:pages>1366-1370</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3972">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03029">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>27大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>24</prism:volume>
+                <dc:title>Nano Letters</dc:title>
+                <dc:identifier>DOI 10.1021/acs.nanolett.4c03029</dc:identifier>
+                <prism:number>38</prism:number>
+                <dcterms:alternative>Nano Lett.</dcterms:alternative>
+                <dc:identifier>ISSN 1530-6984, 1530-6992</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vojáček</foaf:surname>
+                        <foaf:givenName>Libor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medina Dueñas</foaf:surname>
+                        <foaf:givenName>Joaquín</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Jing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ibrahim</foaf:surname>
+                        <foaf:givenName>Fatima</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Manchon</foaf:surname>
+                        <foaf:givenName>Aurélien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roche</foaf:surname>
+                        <foaf:givenName>Stephan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chshiev</foaf:surname>
+                        <foaf:givenName>Mairbek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García</foaf:surname>
+                        <foaf:givenName>José H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3974"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Field-Free Spin–Orbit Torque Switching in Janus Chromium Dichalcogenides</dc:title>
+        <dcterms:abstract>We predict a very large spin−orbit torque (SOT) capability of magnetic chromium-based transition-metal dichalcogenide (TMD) monolayers in their Janus forms CrXTe, with X = S, Se. The structural inversion symmetry breaking, inherent to Janus structures is responsible for a large SOT response generated by giant Rashba splitting, equivalent to that obtained by applying a transverse electric field of ∼100 V nm−1 in non-Janus CrTe2, completely out of experimental reach. By performing transport simulations on carefully derived Wannier tight-binding models, Janus systems are found to exhibit an SOT performance comparable to the most efficient two-dimensional materials, while additionally allowing for field-free perpendicular magnetization switching, due to their reduced in-plane symmetry. Altogether, our findings evidence that magnetic Janus TMDs stand as suitable candidates for ultimate SOT-MRAM devices in an ultracompact self-induced SOT scheme.</dcterms:abstract>
+        <dc:date>2024-09-25</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03029</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:22</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <dc:description>titleTranslation: Janus结构二硫族化铬中的无外场自旋轨道矩翻转</dc:description>
+        <bib:pages>11889-11894</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3974">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acsnano.7b03313">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>24大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>11</prism:volume>
+                <dc:title>ACS Nano</dc:title>
+                <dc:identifier>DOI 10.1021/acsnano.7b03313</dc:identifier>
+                <prism:number>8</prism:number>
+                <dcterms:alternative>ACS Nano</dcterms:alternative>
+                <dc:identifier>ISSN 1936-0851, 1936-086X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dong</foaf:surname>
+                        <foaf:givenName>Liang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lou</foaf:surname>
+                        <foaf:givenName>Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shenoy</foaf:surname>
+                        <foaf:givenName>Vivek B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3976"/>
+        <dc:title>Large In-Plane and Vertical Piezoelectricity in Janus Transition Metal Dichalchogenides</dc:title>
+        <dcterms:abstract>Piezoelectricity in 2D van der Waals materials has received considerable interest because of potential applications in nanoscale energy harvesting, sensors, and actuators. However, in all the systems studied to date, strain and electric polarization are conﬁned to the basal plane, limiting the operation of piezoelectric devices. In this paper, based on ab initio calculations, we report a 2D materials system, namely, the recently synthesized Janus MXY (M = Mo or W, X/Y = S, Se, or Te) monolayer and multilayer structures, with large out-of-plane piezoelectric polarization. For MXY monolayers, both strong in-plane and much weaker out-of-plane piezoelectric polarizations can be induced by a uniaxial strain in the basal plane. For multilayer MXY, we obtain a very strong out-of-plane piezoelectric polarization when strained transverse to the basal plane, regardless of the stacking sequence. The out-of-plane piezoelectric coeﬃcient d33 is found to be strongest in multilayer MoSTe (5.7−13.5 pm/V depending on the stacking sequence), which is larger than that of the commonly used 3D piezoelectric material AlN (d33 = 5.6 pm/V); d33 in other multilayer MXY structures are a bit smaller, but still comparable. Our study reveals the potential for utilizing piezoelectric 2D materials and their van der Waals multilayers in device applications.</dcterms:abstract>
+        <dc:date>2017-08-22</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acsnano.7b03313</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:25</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: Janus型过渡金属硫族化合物中巨大的面内与垂直压电性
+TLDR: The study reveals the potential for utilizing piezoelectric 2D materials and their van der Waals multilayer structures in device applications.</dc:description>
+        <bib:pages>8242-8248</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3976">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acsnano.9b06698">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>22通</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>13</prism:volume>
+                <dc:title>ACS Nano</dc:title>
+                <dc:identifier>DOI 10.1021/acsnano.9b06698</dc:identifier>
+                <prism:number>11</prism:number>
+                <dcterms:alternative>ACS Nano</dcterms:alternative>
+                <dc:identifier>ISSN 1936-0851, 1936-086X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riis-Jensen</foaf:surname>
+                        <foaf:givenName>Anders C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deilmann</foaf:surname>
+                        <foaf:givenName>Thorsten</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olsen</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thygesen</foaf:surname>
+                        <foaf:givenName>Kristian S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3978"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Classifying the Electronic and Optical Properties of Janus Monolayers</dc:title>
+        <dcterms:abstract>Inspired by the recent synthesis of monolayer MoSSe, we conduct a ﬁrst-principles high-throughput investigation of 216 MXY Janus monolayers consisting of a middle layer of metal atoms (M) sandwiched between diﬀerent types of chalcogen, halogen, or pnictogen atoms (X,Y). Using density functional theory and many-body perturbation theory, we perform an exhaustive computational characterization of the 70 most stable semiconducting monolayers. These are found to exhibit diverse and fascinating properties including ﬁnite out-of-plane dipoles, giant Rashba-splittings, direct and indirect band gaps ranging from 0.7 to 3.0 eV, large exciton binding energies, and very strong light−matter interactions. The data have been generated using the workﬂow behind the Computational 2D Materials Database and are freely available online. Our work expands the class of known Janus monolayers and points to several potentially synthesizable structures, which could be interesting candidates for valley- or optoelectronic applications or for generating out-of-plane electric ﬁelds to control charge transfer, charge separation, or band alignments in van der Waals heterostructures.</dcterms:abstract>
+        <dc:date>2019-11-26</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acsnano.9b06698</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:28</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <dc:description>titleTranslation: Janus单层材料电子与光学性质的分类研究
+TLDR: This work expands the class of known Janus monolayers and points to several potentially synthesisable structures, which could be interesting candidates for valley- or opto-electronic applications, or for generating out-of-plane electric fields to control charge transfer, charge separation, or band alignments in van der Waals heterostructures.</dc:description>
+        <bib:pages>13354-13364</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3978">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acsnano.0c06434">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>21通</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>14</prism:volume>
+                <dc:title>ACS Nano</dc:title>
+                <dc:identifier>DOI 10.1021/acsnano.0c06434</dc:identifier>
+                <prism:number>11</prism:number>
+                <dcterms:alternative>ACS Nano</dcterms:alternative>
+                <dc:identifier>ISSN 1936-0851, 1936-086X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hajra</foaf:surname>
+                        <foaf:givenName>Debarati</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sailus</foaf:surname>
+                        <foaf:givenName>Renee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blei</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yumigeta</foaf:surname>
+                        <foaf:givenName>Kentaro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shen</foaf:surname>
+                        <foaf:givenName>Yuxia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tongay</foaf:surname>
+                        <foaf:givenName>Sefaattin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3980"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Epitaxial Synthesis of Highly Oriented 2D Janus Rashba Semiconductor BiTeCl and BiTeBr Layers</dc:title>
+        <dcterms:abstract>The family of layered BiTeX (X = Cl, Br, I) compounds are intrinsic Janus semiconductors with giant Rashba-splitting and many exotic surface and bulk physical properties. To date, studies on these materials required mechanical exfoliation from bulk crystals which yielded thick sheets in nonscalable sizes. Here, we report epitaxial synthesis of Janus BiTeCl and BiTeBr sheets through a nanoconversion technique that can produce few triple layers of Rashba semiconductors (&lt;10 nm) on sapphire substrates. The process starts with van der Waals epitaxy of Bi2Te3 sheets on sapphire and converts these sheets to BiTeCl or BiTeBr layers at high temperatures in the presence of chemically reactive BiCl3/BiBr3 inorganic vapor. Systematic Raman, XRD, SEM, EDX, and other studies show that highly crystalline BiTeCl and BiTeBr sheets can be produced on demand. Atomic level growth mechanism is also proposed and discussed to oﬀer further insights into growth process steps. Overall, this work marks the direct deposition of 2D Janus Rashba materials and oﬀers pathways to synthesize other Janus compounds belonging to MXY family members.</dcterms:abstract>
+        <dc:date>2020-11-24</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acsnano.0c06434</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:30</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <dc:description>论文摘要：层状BiTeX（X = Cl, Br, I）化合物家族是本征Janus半导体材料，具有巨大的Rashba分裂效应及诸多奇异的表面与体相物理特性。目前对该类材料的研究依赖于从块体晶体机械剥离，所得厚片尺寸受限且难以规模化。本文报道通过纳米转化技术在蓝宝石衬底上外延合成Janus型BiTeCl与BiTeBr薄层（&lt;10 nm，约数个三元层厚度）。该工艺始于蓝宝石上Bi2Te3层的范德华外延生长，随后在高温下通过BiCl3/BiBr3无机蒸气化学反应将其转化为BiTeCl或BiTeBr层。系统的拉曼光谱、X射线衍射、扫描电镜、能量色散X射线光谱等表征表明，可按需制备高结晶度的BiTeCl与BiTeBr薄层。本文进一步提出并讨论了原子尺度的生长机理，以深入阐释生长过程步骤。本研究实现了二维Janus Rashba材料的直接沉积，并为合成MXY家族其他Janus化合物提供了可行路径。
+titleTranslation: 高度取向二维Janus Rashba半导体BiTeCl与BiTeBr层的外延合成
+TLDR: This work reports epitaxial synthesis of Janus BiTeCl and BiTeBr sheets through a nanoconversion technique that can produce few triple layers of Rashba semiconductors on sapphire substrates and offers pathways to synthesize other Janus compounds belonging to MXY family members.</dc:description>
+        <bib:pages>15626-15632</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3980">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1002/smtd.202400892">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2366-9608,%202366-9608"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Zechen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Honglin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Huaipeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Yunpeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qing</foaf:surname>
+                        <foaf:givenName>Fangzhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Xuesong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Qian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xie</foaf:surname>
+                        <foaf:givenName>Dan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>Hongwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3982"/>
+        <dc:title>Janus Doping of Sulfur into Platinum Diselenide Ribbons</dc:title>
+        <dcterms:abstract>Abstract
+            
+              2D platinum diselenide (PtSe
+              2
+              ), a novel member of the transition metal dichalcogenides (TMDCs) family, possesses many excellent properties, including a layer‐dependent bandgap, high carrier mobility, and broadband response, making it promise for applications in technologies like field‐effect transistors and room‐temperature photodetectors. Doping represents an effective method to modify the electrical properties of 2D TMDCs and to bestow upon them additional functions. However, to date, little research has been conducted on the successful doping of 2D PtSe
+              2
+              for modification. In this study, sulfur (S) powder is utilized during the chemical vapor deposition growth process of 2D PtSe
+              2
+              ribbons and successfully integrated into the PtSe
+              2
+              lattice through substitutional doping. The Au substrate significantly decreases the substitution energy of Se atoms in the lower layer of PtSe
+              2
+              , resulting in the formation of the Janus PtSSe structure. S‐doped PtSe
+              2
+              ribbons demonstrate significant symmetry breaking and enhanced electrical properties, showcasing a strong nonlinear optical response and certain synaptic plasticity, further simulating some neuromorphological processes. This study not only demonstrates a viable method for controllable doping and modification of 2D PtSe
+              2
+              but also establishes a platform for exploring the characteristics of Janus TMDCs.</dcterms:abstract>
+        <dc:date>2025-03</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/smtd.202400892</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:33</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 硫在二硒化铂纳米带中的Janus掺杂</dc:description>
+        <bib:pages>2400892</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2366-9608,%202366-9608">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>20大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>9</prism:volume>
+        <dc:title>Small Methods</dc:title>
+        <dc:identifier>DOI 10.1002/smtd.202400892</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Small Methods</dcterms:alternative>
+        <dc:identifier>ISSN 2366-9608, 2366-9608</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3982">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41467-024-55623-x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2041-1723"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Chang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenName>Tianyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sui</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Lena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Quanlin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xue</foaf:surname>
+                        <foaf:givenName>Guodong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Chen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>You</foaf:surname>
+                        <foaf:givenName>Yilong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yao</foaf:surname>
+                        <foaf:givenName>Guangjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Mengze</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yin</foaf:surname>
+                        <foaf:givenName>Jianbo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Zhipei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hong</foaf:surname>
+                        <foaf:givenName>Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Enge</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Kaihui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3984"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Anomalous photovoltaics in Janus MoSSe monolayers</dc:title>
+        <dc:date>2025-01-09</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41467-024-55623-x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:35</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: Janus MoSSe单层中的反常光伏效应</dc:description>
+        <bib:pages>544</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2041-1723">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>19大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>16</prism:volume>
+        <dc:title>Nature Communications</dc:title>
+        <dc:identifier>DOI 10.1038/s41467-024-55623-x</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Nat Commun</dcterms:alternative>
+        <dc:identifier>ISSN 2041-1723</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3984">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41427-022-00363-x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>18大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>14</prism:volume>
+                <dc:title>NPG Asia Materials</dc:title>
+                <dc:identifier>DOI 10.1038/s41427-022-00363-x</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>NPG Asia Mater</dcterms:alternative>
+                <dc:identifier>ISSN 1884-4049, 1884-4057</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jang</foaf:surname>
+                        <foaf:givenName>Chan Wook</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Won Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Jae Kuk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Sang Minh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Sung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choi</foaf:surname>
+                        <foaf:givenName>Suk-Ho</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3986"/>
+        <dc:title>Growth of two-dimensional Janus MoSSe by a single in situ process without initial or follow-up treatments</dc:title>
+        <dcterms:abstract>Two-dimensional (2D) Janus transition metal dichalcogenides (TMDCs) are highly attractive as an emerging class of 2D materials, but only a few methods are available for fabricating them. These methods rely on the initial growth of 2D TMDCs in one process, followed by an additional plasma or high-temperature (T) process. To overcome these drawbacks, we employ the new approach of NaCl-assisted single-process chemical vapor deposition, which consists of three steps that proceed only by altering the temperature in situ. In the ﬁrst step, MoS2 is deposited onto a SiO2/Si substrate with the Mo and S atoms activated in different temperature zones. In the second step, S vacancies are formed in the upper layer of the grown MoS2 by annealing. In the third step, the vacancies are ﬁlled with activated Se atoms. Throughout the steps, NaCl lowers the melting point of the constituent atoms, while the T in each zone is properly controlled. The growth mechanism is clariﬁed by a separate annealing experiment that does not involve a supply of activated atoms. These results highlight a simple and cost-effective approach for growing Janus MoSSe, which is more useful for fundamental studies and device applications.</dcterms:abstract>
+        <dc:date>2022-12</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41427-022-00363-x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:38</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 二维Janus MoSSe的单步原位生长法：无需前置或后处理</dc:description>
+        <bib:pages>15</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3986">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acsnano.7b03186">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>17大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>11</prism:volume>
+                <dc:title>ACS Nano</dc:title>
+                <dc:identifier>DOI 10.1021/acsnano.7b03186</dc:identifier>
+                <prism:number>8</prism:number>
+                <dcterms:alternative>ACS Nano</dcterms:alternative>
+                <dc:identifier>ISSN 1936-0851, 1936-086X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Jing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jia</foaf:surname>
+                        <foaf:givenName>Shuai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kholmanov</foaf:surname>
+                        <foaf:givenName>Iskandar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dong</foaf:surname>
+                        <foaf:givenName>Liang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Er</foaf:surname>
+                        <foaf:givenName>Dequan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Weibing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Hua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jin</foaf:surname>
+                        <foaf:givenName>Zehua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shenoy</foaf:surname>
+                        <foaf:givenName>Vivek B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shi</foaf:surname>
+                        <foaf:givenName>Li</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lou</foaf:surname>
+                        <foaf:givenName>Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3988"/>
+        <dc:title>Janus Monolayer Transition-Metal Dichalcogenides</dc:title>
+        <dcterms:abstract>The crystal conﬁguration of sandwiched S− Mo−Se structure (Janus SMoSe) at the monolayer limit has been synthesized and carefully characterized in this work. By controlled sulfurization of monolayer MoSe2, the top layer of selenium atoms is substituted by sulfur atoms, while the bottom selenium layer remains intact. The structure of this material is systematically investigated by Raman, photoluminescence, transmission electron microscopy, and X-ray photoelectron spectroscopy and conﬁrmed by time-of-ﬂight secondary ion mass spectrometry. Density functional theory (DFT) calculations are performed to better understand the Raman vibration modes and electronic structures of the Janus SMoSe monolayer, which are found to correlate well with corresponding experimental results. Finally, high basal plane hydrogen evolution reaction activity is discovered for the Janus monolayer, and DFT calculation implies that the activity originates from the synergistic eﬀect of the intrinsic defects and structural strain inherent in the Janus structure.</dcterms:abstract>
+        <dc:date>2017-08-22</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acsnano.7b03186</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:41</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: Janus单层过渡金属硫族化合物
+TLDR: High basal plane hydrogen evolution reaction activity is discovered for the Janus monolayer, and DFT calculation implies that the activity originates from the synergistic effect of the intrinsic defects and structural strain inherent in theJanus structure.</dc:description>
+        <bib:pages>8192-8198</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3988">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/nnano.2017.100">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1748-3387,%201748-3395"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Ang-Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>Hanyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xiao</foaf:surname>
+                        <foaf:givenName>Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuu</foaf:surname>
+                        <foaf:givenName>Chih-Piao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Han</foaf:surname>
+                        <foaf:givenName>Yimo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chiu</foaf:surname>
+                        <foaf:givenName>Ming-Hui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheng</foaf:surname>
+                        <foaf:givenName>Chia-Chin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Chih-Wen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Kung-Hwa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Yiming</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Yuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sokaras</foaf:surname>
+                        <foaf:givenName>Dimosthenis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nordlund</foaf:surname>
+                        <foaf:givenName>Dennis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Peidong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muller</foaf:surname>
+                        <foaf:givenName>David A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chou</foaf:surname>
+                        <foaf:givenName>Mei-Yin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Lain-Jong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3990"/>
+        <dc:subject>⭐⭐⭐</dc:subject>
+        <dc:title>Janus monolayers of transition metal dichalcogenides</dc:title>
+        <dc:date>2017-8</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/nnano.2017.100</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:44</dcterms:dateSubmitted>
+        <dc:description>待翻译文本：过渡金属二硫化物的Janus单层
+titleTranslation: 过渡金属二硫化物的Janus单层
+TLDR: A synthetic strategy to grow Janus monolayers of transition metal dichalcogenides breaking the out-of-plane structural symmetry of MoSSe by means of scanning transmission electron microscopy and energy-dependent X-ray photoelectron spectroscopy is reported.</dc:description>
+        <bib:pages>744-749</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1748-3387,%201748-3395">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>16大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>12</prism:volume>
+        <dc:title>Nature Nanotechnology</dc:title>
+        <dc:identifier>DOI 10.1038/nnano.2017.100</dc:identifier>
+        <prism:number>8</prism:number>
+        <dcterms:alternative>Nature Nanotech</dcterms:alternative>
+        <dc:identifier>ISSN 1748-3387, 1748-3395</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3990">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/ncomms2464">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>15大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>4</prism:volume>
+                <dc:title>Nature Communications</dc:title>
+                <dc:identifier>DOI 10.1038/ncomms2464</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>Nat Commun</dcterms:alternative>
+                <dc:identifier>ISSN 2041-1723</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Liming</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Mingmei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xie</foaf:surname>
+                        <foaf:givenName>Qin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Hailin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Zhongfan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3993"/>
+        <dc:title>Janus graphene from asymmetric two-dimensional chemistry</dc:title>
+        <dcterms:abstract>Janus materials have distinct surfaces on their opposite faces. Graphene, a two-dimensional  giant molecule, provides an excellent candidate to fabricate the thinnest Janus discs and  study the asymmetric chemistry of atomic-thick nanomembranes using covalent chemical  functionalisation. Here we present the first experimental realisation of nonsymmetrically  modified single-layer graphene—Janus graphene—which is fabricated by a two-step surface  covalent functionalisation assisted by a poly(methyl methacrylate)-mediated transfer  approach. Four types of Janus graphene are produced by co-grafting of halogen and aryl/  oxygen-functional groups on each side. Chemical decorations on one side are found to be  capable of affecting both chemical reactivity and physical wettability of the opposite side,  indicative of communication between the two grafted groups. This novel asymmetric structure provides a platform for theoretical and experimental studies of two-dimensional  chemistry and graphene devices with multiple functions.</dcterms:abstract>
+        <dc:date>2013-02-05</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.nature.com/articles/ncomms2464</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:49</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 非对称二维化学法制备Janus石墨烯
+TLDR: The first experimental realisation of nonsymmetrically modified single-layer graphene--Janus graphene--which is fabricated by a two-step surface covalent functionalisation assisted by a poly(methyl methacrylate)-mediated transfer approach is presented.</dc:description>
+        <bib:pages>1443</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3993">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pnas.org/doi/full/10.1073/pnas.2122952119">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0027-8424,%201091-6490"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Shengnan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Jianfeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Chong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Baishun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenName>Haiqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duan</foaf:surname>
+                        <foaf:givenName>Wenhui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3995"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Interplay between quantum anomalous Hall effect and magnetic skyrmions</dc:title>
+        <dcterms:abstract>Significance
+            
+              Quantum anomalous Hall effect (QAHE) and magnetic skyrmion (SK), as two typical topological states in momentum (
+              K
+              ) and real (
+              R
+              ) spaces, attract much interest in condensed matter physics. However, the interplay between these two states remains to be explored. We propose that the interplay between QAHE and SK may generate an
+              RK
+              joint topological skyrmion (
+              RK
+              -SK), characterized by the SK surrounded by nontrivial chiral boundary states (CBSs). Furthermore, the emerging external field–tunable CBS in
+              RK
+              -SK could create additional degrees of freedom for SK manipulations, beyond the traditional SK. Meanwhile, external field can realize a rare topological phase transition between
+              K
+              and
+              R
+              spaces. Our work opens avenues for exploring unconventional quantum states and topological phase transitions in different spaces.
+            
+          , 
+            
+              Quantum anomalous Hall effect (QAHE) and magnetic skyrmion (SK) represent two typical topological states in momentum (
+              K
+              ) and real (
+              R
+              ) spaces, respectively. However, little is known about the interplay between these two states. Here, we propose that the coexistence of QAHE and SK may generate a previously unknown SK state, named the
+              RK
+              joint topological skyrmion (
+              RK
+              -SK), which is characterized by the SK surrounded by nontrivial chiral boundary states (CBSs). Interestingly, beyond the traditional SK state that can solely be used via creation or annihilation, the number and chirality of CBS in
+              RK
+              -SK can be tunable under external fields as demonstrated in Janus monolayer (ML) MnBi
+              2
+              X
+              2
+              Te
+              2
+              (
+              X
+              
+                
+                  =
+                
+              
+              S, Se), creating additional degrees of freedom for SK-state manipulations. Moreover, it is also found that external fields can induce a continuous topology phase transition from
+              K
+              -space QAHE to
+              R
+              -space SK in ML MnBi
+              2
+              X
+              2
+              Te
+              2
+              , providing an ideal platform to understand the cross-over phenomena of multiple-space topologies.</dcterms:abstract>
+        <dc:date>2022-05-17</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pnas.org/doi/full/10.1073/pnas.2122952119</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:34:36</dcterms:dateSubmitted>
+        <dc:description>remark: 1
+titleTranslation: 量子反常霍尔效应与磁性斯格明子的相互作用</dc:description>
+        <bib:pages>e2122952119</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0027-8424,%201091-6490">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>32大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>119</prism:volume>
+        <dc:title>Proceedings of the National Academy of Sciences</dc:title>
+        <dc:identifier>DOI 10.1073/pnas.2122952119</dc:identifier>
+        <prism:number>20</prism:number>
+        <dcterms:alternative>Proc. Natl. Acad. Sci. U.S.A.</dcterms:alternative>
+        <dc:identifier>ISSN 0027-8424, 1091-6490</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3995">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_3998">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>25通读</dc:title></bib:Series>
+                </dcterms:isPartOf>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ishizaka</foaf:surname>
+                        <foaf:givenName>K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3997"/>
+        <dc:subject>⭐⭐⭐⭐⭐</dc:subject>
+        <dc:title>Giant Rashba-type spin splitting in bulk BiTeI</dc:title>
+        <dcterms:abstract>There has been increasing interest in phenomena emerging from relativistic electrons in a solid, which have a potential  impact on spintronics and magnetoelectrics. One example is the Rashba effect, which lifts the electron-spin degeneracy as  a consequence of spin–orbit interaction under broken inversion symmetry. A high-energy-scale Rashba spin splitting is highly  desirable for enhancing the coupling between electron spins and electricity relevant for spintronic functions. Here we describe  the finding of a huge spin–orbit interaction effect in a polar semiconductor composed of heavy elements, BiTeI, where the  bulk carriers are ruled by large Rashba-like spin splitting. The band splitting and its spin polarization obtained by spin- and  angle-resolved photoemission spectroscopy are well in accord with relativistic first-principles calculations, confirming that  the spin splitting is indeed derived from bulk atomic configurations. Together with the feasibility of carrier-doping control, the  giant-Rashba semiconductor BiTeI possesses excellent potential for application to various spin-dependent electronic functions.</dcterms:abstract>
+        <dc:date>2011</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>titleTranslation: 块体BiTeI中的巨型Rashba型自旋劈裂</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3997">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4003">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>31大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>PHYSICAL REVIEW B</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenName>Jinghua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3999"/>
+        <dc:title>Very large Dzyaloshinskii-Moriya interaction in two-dimensional Janus manganese dichalcogenides and its application to realize skyrmion states</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>remark: 1
+titleTranslation: 二维Janus锰二硫族化合物中巨大的Dzyaloshinskii-Moriya相互作用及其在实现斯格明子态中的应用</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3999">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4004">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>29大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>PHYSICAL REVIEW B</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>San-Dong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4000"/>
+        <dc:title>Strain effects on the topological and valley properties of the Janus monolayer VSiGeN$_4$</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>titleTranslation: 应变对Janus单层VSiGeN$_4$拓扑及能谷特性的影响</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4000">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4005">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>26大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>PHYSICAL REVIEW B</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Tao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4001"/>
+        <dc:title>Intrinsic and anisotropic Rashba spin splitting in Janus transition-metal dichalcogenide monolayers</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>titleTranslation: Janus过渡金属二硫族化合物单层中的本征且各向异性的Rashba自旋劈裂</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4001">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4006">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>23大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Si</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bai</foaf:surname>
+                        <foaf:givenName>Yizhen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Jijun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4002"/>
+        <dc:title>Enhanced piezoelectric effect in Janus group-III chalcogenide monolayers</dc:title>
+        <dcterms:abstract>Piezoelectricity is a unique material property that converts mechanical energy into electricity or vice versa. Starting from the group-III monochalcogenide monolayers, we design a series of derivative Janus structures for piezoelectric materials, including Ga2SSe, Ga2STe, Ga2SeTe, In2SSe, In2STe, In2SeTe, GaInS2, GaInSe2, and GaInTe2. Our first-principles calculations show that these Janus structures are thermodynamically and dynamically stable. They have a bandgap in the range of 0.89–2.03 eV, lower than those of the perfect monolayers, and Ga2STe, Ga2SeTe, In2STe, and In2SeTe monolayers are direct gap semiconductors. They possess piezoelectric coefficients up to 8.47 pm/V, over four times the maximum value obtained in perfect group-III monochalcogenide monolayers. Moreover, the broken mirror symmetry of these Janus structures induces out-of-plane dipolar polarization, yielding additional out-of-plane piezoelectric coefficients of 0.07–0.46 pm/V. The enhanced piezoelectric properties enable the development of these novel two-dimensional materials for piezoelectric sensors and nanogenerators.</dcterms:abstract>
+        <dc:date>2017</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>待翻译文本：Janus型III族硫属化合物单层中的压电效应增强
+titleTranslation: Janus型III族硫属化合物单层中的压电效应增强</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4002">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>

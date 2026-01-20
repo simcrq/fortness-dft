@@ -1,0 +1,11 @@
+PREC = Accurate
+ENCUT = 375
+ISMEAR = 0
+SIGMA = 0.05
+EDIFF = 1E-8
+EDIFFG= -0.01
+ISIF = 2  !准备多个a不同的POSCAR
+IBRION  = 2
+NSW = 100
+KPAR=2
+NPAR=2

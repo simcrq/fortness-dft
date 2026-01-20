@@ -1,0 +1,1006 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acsnano.2c08544">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1936-0851,%201936-086X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dou</foaf:surname>
+                        <foaf:givenName>Kaiying</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Wenhui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenName>Zhonglin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dai</foaf:surname>
+                        <foaf:givenName>Ying</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Baibiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Yandong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3968"/>
+        <dc:title>Theoretical Prediction of Antiferromagnetic Skyrmion Crystal in Janus Monolayer CrSi₂N₂As₂</dc:title>
+        <dcterms:abstract>An antiferromagnetic skyrmion crystal (AF-SkX), a regular array of antiferromagnetic skyrmions, is a fundamental phenomenon in the field of condensed-matter physics. So far, very few proposals have been made to realize the AF-SkX, and most have been based on three-dimensional (3D) materials. Herein, using first-principles calculations and Monte Carlo simulations, we report the identification of AF-SkX in a twodimensional lattice of the Janus monolayer CrSi2N2As2. Arising from the broken inversion symmetry and strong spin−orbit coupling, a large Dzyaloshinskii−Moriya interaction is obtained in the Janus monolayer CrSi2N2As2. This, combined with the geometric frustration of its triangular lattice, gives rise to the skyrmion physics and long-sought AF-SkX in the presence of an external magnetic field. More intriguingly, this system presents two different antiferromagnetic skyrmion phases, and such a phenomenon is distinct from those reported in 3D systems. Furthermore, by contacting with Sc2CO2, the creation and annihilation of AF-SkX in Janus monolayer CrSi2N2As2 can be achieved through ferroelectricity. These findings greatly enrich the research on antiferromagnetic skyrmions.</dcterms:abstract>
+        <dc:date>2023-01-24</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acsnano.2c08544</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:13</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <dc:description>论文摘要：反铁磁斯格明子晶格（AF-SkX）作为反铁磁斯格明子的规则阵列，是凝聚态物理领域的基础现象。目前实现AF-SkX的方案极少，且大多基于三维材料。本文通过第一性原理计算与蒙特卡洛模拟，首次在Janus单层CrSi&lt;sub&gt;2&lt;/sub&gt;N&lt;sub&gt;2&lt;/sub&gt;As&lt;sub&gt;2&lt;/sub&gt;的二维晶格中预测了AF-SkX的存在。该体系因反演对称性破缺和强自旋-轨道耦合产生了巨大的Dzyaloshinskii-Moriya相互作用，结合其三角晶格的几何阻挫特性，在外磁场作用下诱发了斯格明子物理行为及学界长期探寻的AF-SkX。尤为引人注目的是，该体系呈现出两种不同的反铁磁斯格明子相，此现象与三维体系中的报道截然不同。此外，通过与Sc&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;2&lt;/sub&gt;接触，可借助铁电效应对Janus单层CrSi&lt;sub&gt;2&lt;/sub&gt;N&lt;sub&gt;2&lt;/sub&gt;As&lt;sub&gt;2&lt;/sub&gt;中的AF-SkX进行创生与湮灭。这些发现极大丰富了反铁磁斯格明子的研究体系。
+titleTranslation: Janus单层CrSi₂N₂As₂中反铁磁斯格明子晶格的理论预测</dc:description>
+        <bib:pages>1144-1152</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1936-0851,%201936-086X">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>33大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>17</prism:volume>
+        <dc:title>ACS Nano</dc:title>
+        <dc:identifier>DOI 10.1021/acsnano.2c08544</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>ACS Nano</dcterms:alternative>
+        <dc:identifier>ISSN 1936-0851, 1936-086X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3968">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3968/Dou 等 - 2023 - Theoretical Prediction of Antiferromagnetic Skyrmion Crystal in Janus Monolayer CrSi2 Ns.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.nanolett.3c03238">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1530-6984,%201530-6992"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yun-Qin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shang</foaf:surname>
+                        <foaf:givenName>Xiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenName>Qi-Wen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Dai-Song</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xiao-Chun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duan</foaf:surname>
+                        <foaf:givenName>Chun-Gang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3970"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Magnetic and Ferroelectric Manipulation of Valley Physics in Janus Piezoelectric Materials</dc:title>
+        <dcterms:abstract>The realization of multiferroic materials offers the possibility of multifunctional electronic device design. However, the coupling between the multiferroicity and piezoelectricity in Janus materials is rarely reported. In this study, we propose a mechanism for manipulating valley physics by magnetization reversing and ferroelectric switching in multiferroic and piezoelectric material. The ferromagnetic VSiGeP4 monolayer exhibits a large valley polarization up to 100 meV, which can be effectively operated by reversing magnetization. Interestingly, the antiferromagnetic VSiGeP4 bilayers with AB and BA stacking configurations allow the coexistence of valley polarization and ferroelectricity, supporting the proposed strategy for manipulating valley physics via ferroelectric switching and interlayer sliding. In addition, the VSiGeP4 monolayer contains remarkable tunable piezoelectricity regulated by electron correlation U. This study proposes a feasible idea for regulating valley polarization and a general design idea for multifunctional devices with multiferroic and piezoelectric properties, facilitating the miniaturization and integration of nanodevices.</dcterms:abstract>
+        <dc:date>2023-11-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.nanolett.3c03238</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:16</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <dc:description>titleTranslation: Janus压电材料中谷物理的磁性与铁电调控</dc:description>
+        <bib:pages>10013-10020</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1530-6984,%201530-6992">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>30大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>23</prism:volume>
+        <dc:title>Nano Letters</dc:title>
+        <dc:identifier>DOI 10.1021/acs.nanolett.3c03238</dc:identifier>
+        <prism:number>21</prism:number>
+        <dcterms:alternative>Nano Lett.</dcterms:alternative>
+        <dc:identifier>ISSN 1530-6984, 1530-6992</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3970">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3970/Li 等 - 2023 - Magnetic and Ferroelectric Manipulation of Valley Physics in Janus Piezoelectric Materials.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.nanolett.8b05050">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>28大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>19</prism:volume>
+                <dc:title>Nano Letters</dc:title>
+                <dc:identifier>DOI 10.1021/acs.nanolett.8b05050</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>Nano Lett.</dcterms:alternative>
+                <dc:identifier>ISSN 1530-6984, 1530-6992</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Chunmei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nie</foaf:surname>
+                        <foaf:givenName>Yihan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sanvito</foaf:surname>
+                        <foaf:givenName>Stefano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Aijun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3972"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>First-Principles Prediction of a Room-Temperature Ferromagnetic Janus VSSe Monolayer with Piezoelectricity, Ferroelasticity, and Large Valley Polarization</dc:title>
+        <dcterms:abstract>Inspired by recent experiments on the successful fabrication of monolayer Janus transition-metal dichalcogenides [Lu, A.-Y.; et al. Nat. Nanotechnol. 2017, 12, (8), 744 and ferromagnetic VSe2 [Bonilla, M.; et al. Nat. Nanotechnol. 2018, 13, (4), 289], we predict a highly stable room-temperature ferromagnetic Janus monolayer (VSSe) by density functional theory methods and further conﬁrmed the stability by a global minimum search with the particle-swarm optimization method. The VSSe monolayer exhibits a large valley polarization due to the broken space- and time-reversal symmetry. Moreover, its low symmetry C3v point group results in giant in-plane piezoelectric polarization. Most interestingly, a strain-driven 90° lattice rotation is found in the magnetic VSSe monolayer with an extremely high reversal strain (73%), indicating an intrinsic ferroelasticity. The combination of piezoelectricity and valley polarization make magnetic 2D Janus VSSe a tantalizing material for potential applications in nanoelectronics, optoelectronics, and valleytronics.</dcterms:abstract>
+        <dc:date>2019-02-13</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.nanolett.8b05050</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:19</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <dc:description>titleTranslation: 基于第一性原理预测具有压电性、铁弹性和大谷极化的室温铁磁Janus VSSe单层材料
+TLDR: A strain-driven 90° lattice rotation is found in the magnetic VSSe monolayer with an extremely high reversal strain, indicating an intrinsic ferroelasticity and the combination of piezoelectricity and valley polarization make magnetic 2D Janus VSSe a tantalizing material for potential applications in nanoelectronics, optoelectronic, and valleytronics.</dc:description>
+        <bib:pages>1366-1370</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3972">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3972/Zhang 等 - 2019 - First-Principles Prediction of a Room-Temperature Ferromagnetic Janus VSSe Monolayer with Piezoelect.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03029">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>27大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>24</prism:volume>
+                <dc:title>Nano Letters</dc:title>
+                <dc:identifier>DOI 10.1021/acs.nanolett.4c03029</dc:identifier>
+                <prism:number>38</prism:number>
+                <dcterms:alternative>Nano Lett.</dcterms:alternative>
+                <dc:identifier>ISSN 1530-6984, 1530-6992</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vojáček</foaf:surname>
+                        <foaf:givenName>Libor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medina Dueñas</foaf:surname>
+                        <foaf:givenName>Joaquín</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Jing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ibrahim</foaf:surname>
+                        <foaf:givenName>Fatima</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Manchon</foaf:surname>
+                        <foaf:givenName>Aurélien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roche</foaf:surname>
+                        <foaf:givenName>Stephan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chshiev</foaf:surname>
+                        <foaf:givenName>Mairbek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García</foaf:surname>
+                        <foaf:givenName>José H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3974"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Field-Free Spin–Orbit Torque Switching in Janus Chromium Dichalcogenides</dc:title>
+        <dcterms:abstract>We predict a very large spin−orbit torque (SOT) capability of magnetic chromium-based transition-metal dichalcogenide (TMD) monolayers in their Janus forms CrXTe, with X = S, Se. The structural inversion symmetry breaking, inherent to Janus structures is responsible for a large SOT response generated by giant Rashba splitting, equivalent to that obtained by applying a transverse electric field of ∼100 V nm−1 in non-Janus CrTe2, completely out of experimental reach. By performing transport simulations on carefully derived Wannier tight-binding models, Janus systems are found to exhibit an SOT performance comparable to the most efficient two-dimensional materials, while additionally allowing for field-free perpendicular magnetization switching, due to their reduced in-plane symmetry. Altogether, our findings evidence that magnetic Janus TMDs stand as suitable candidates for ultimate SOT-MRAM devices in an ultracompact self-induced SOT scheme.</dcterms:abstract>
+        <dc:date>2024-09-25</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03029</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:22</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <dc:description>titleTranslation: Janus结构二硫族化铬中的无外场自旋轨道矩翻转</dc:description>
+        <bib:pages>11889-11894</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3974">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3974/Vojáček 等 - 2024 - Field-Free Spin–Orbit Torque Switching in Janus Chromium Dichalcogenides.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.acs.org/doi/10.1021/acsnano.7b03313">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>24大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>11</prism:volume>
+                <dc:title>ACS Nano</dc:title>
+                <dc:identifier>DOI 10.1021/acsnano.7b03313</dc:identifier>
+                <prism:number>8</prism:number>
+                <dcterms:alternative>ACS Nano</dcterms:alternative>
+                <dc:identifier>ISSN 1936-0851, 1936-086X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dong</foaf:surname>
+                        <foaf:givenName>Liang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lou</foaf:surname>
+                        <foaf:givenName>Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shenoy</foaf:surname>
+                        <foaf:givenName>Vivek B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3976"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Large In-Plane and Vertical Piezoelectricity in Janus Transition Metal Dichalchogenides</dc:title>
+        <dcterms:abstract>Piezoelectricity in 2D van der Waals materials has received considerable interest because of potential applications in nanoscale energy harvesting, sensors, and actuators. However, in all the systems studied to date, strain and electric polarization are conﬁned to the basal plane, limiting the operation of piezoelectric devices. In this paper, based on ab initio calculations, we report a 2D materials system, namely, the recently synthesized Janus MXY (M = Mo or W, X/Y = S, Se, or Te) monolayer and multilayer structures, with large out-of-plane piezoelectric polarization. For MXY monolayers, both strong in-plane and much weaker out-of-plane piezoelectric polarizations can be induced by a uniaxial strain in the basal plane. For multilayer MXY, we obtain a very strong out-of-plane piezoelectric polarization when strained transverse to the basal plane, regardless of the stacking sequence. The out-of-plane piezoelectric coeﬃcient d33 is found to be strongest in multilayer MoSTe (5.7−13.5 pm/V depending on the stacking sequence), which is larger than that of the commonly used 3D piezoelectric material AlN (d33 = 5.6 pm/V); d33 in other multilayer MXY structures are a bit smaller, but still comparable. Our study reveals the potential for utilizing piezoelectric 2D materials and their van der Waals multilayers in device applications.</dcterms:abstract>
+        <dc:date>2017-08-22</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/10.1021/acsnano.7b03313</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:25</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: Janus型过渡金属硫族化合物中巨大的面内与垂直压电性
+TLDR: The study reveals the potential for utilizing piezoelectric 2D materials and their van der Waals multilayer structures in device applications.</dc:description>
+        <bib:pages>8242-8248</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3976">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3976/Dong 等 - 2017 - Large In-Plane and Vertical Piezoelectricity in Janus Transition Metal Dichalchogenides.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1002/smtd.202400892">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2366-9608,%202366-9608"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Zechen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Honglin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Huaipeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Yunpeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qing</foaf:surname>
+                        <foaf:givenName>Fangzhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Xuesong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Qian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xie</foaf:surname>
+                        <foaf:givenName>Dan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>Hongwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3982"/>
+        <dc:title>Janus Doping of Sulfur into Platinum Diselenide Ribbons</dc:title>
+        <dcterms:abstract>Abstract
+            
+              2D platinum diselenide (PtSe
+              2
+              ), a novel member of the transition metal dichalcogenides (TMDCs) family, possesses many excellent properties, including a layer‐dependent bandgap, high carrier mobility, and broadband response, making it promise for applications in technologies like field‐effect transistors and room‐temperature photodetectors. Doping represents an effective method to modify the electrical properties of 2D TMDCs and to bestow upon them additional functions. However, to date, little research has been conducted on the successful doping of 2D PtSe
+              2
+              for modification. In this study, sulfur (S) powder is utilized during the chemical vapor deposition growth process of 2D PtSe
+              2
+              ribbons and successfully integrated into the PtSe
+              2
+              lattice through substitutional doping. The Au substrate significantly decreases the substitution energy of Se atoms in the lower layer of PtSe
+              2
+              , resulting in the formation of the Janus PtSSe structure. S‐doped PtSe
+              2
+              ribbons demonstrate significant symmetry breaking and enhanced electrical properties, showcasing a strong nonlinear optical response and certain synaptic plasticity, further simulating some neuromorphological processes. This study not only demonstrates a viable method for controllable doping and modification of 2D PtSe
+              2
+              but also establishes a platform for exploring the characteristics of Janus TMDCs.</dcterms:abstract>
+        <dc:date>2025-03</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/smtd.202400892</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:33</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 硫在二硒化铂纳米带中的Janus掺杂</dc:description>
+        <bib:pages>2400892</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2366-9608,%202366-9608">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>20大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>9</prism:volume>
+        <dc:title>Small Methods</dc:title>
+        <dc:identifier>DOI 10.1002/smtd.202400892</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Small Methods</dcterms:alternative>
+        <dc:identifier>ISSN 2366-9608, 2366-9608</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3982">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3982/Li 等 - 2025 - Janus Doping of Sulfur into Platinum Diselenide Ribbons.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41467-024-55623-x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2041-1723"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Chang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenName>Tianyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sui</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Lena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Quanlin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xue</foaf:surname>
+                        <foaf:givenName>Guodong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Chen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>You</foaf:surname>
+                        <foaf:givenName>Yilong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yao</foaf:surname>
+                        <foaf:givenName>Guangjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Mengze</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yin</foaf:surname>
+                        <foaf:givenName>Jianbo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Zhipei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hong</foaf:surname>
+                        <foaf:givenName>Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Enge</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Kaihui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3984"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Anomalous photovoltaics in Janus MoSSe monolayers</dc:title>
+        <dc:date>2025-01-09</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41467-024-55623-x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:35</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: Janus MoSSe单层中的反常光伏效应</dc:description>
+        <bib:pages>544</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2041-1723">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>19大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>16</prism:volume>
+        <dc:title>Nature Communications</dc:title>
+        <dc:identifier>DOI 10.1038/s41467-024-55623-x</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Nat Commun</dcterms:alternative>
+        <dc:identifier>ISSN 2041-1723</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3984">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3984/Liu 等 - 2025 - Anomalous photovoltaics in Janus MoSSe monolayers.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41427-022-00363-x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1884-4049,%201884-4057"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jang</foaf:surname>
+                        <foaf:givenName>Chan Wook</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Won Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Jae Kuk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenName>Sang Minh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Sung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choi</foaf:surname>
+                        <foaf:givenName>Suk-Ho</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3986"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Growth of two-dimensional Janus MoSSe by a single in situ process without initial or follow-up treatments</dc:title>
+        <dcterms:abstract>Two-dimensional (2D) Janus transition metal dichalcogenides (TMDCs) are highly attractive as an emerging class of 2D materials, but only a few methods are available for fabricating them. These methods rely on the initial growth of 2D TMDCs in one process, followed by an additional plasma or high-temperature (T) process. To overcome these drawbacks, we employ the new approach of NaCl-assisted single-process chemical vapor deposition, which consists of three steps that proceed only by altering the temperature in situ. In the ﬁrst step, MoS2 is deposited onto a SiO2/Si substrate with the Mo and S atoms activated in different temperature zones. In the second step, S vacancies are formed in the upper layer of the grown MoS2 by annealing. In the third step, the vacancies are ﬁlled with activated Se atoms. Throughout the steps, NaCl lowers the melting point of the constituent atoms, while the T in each zone is properly controlled. The growth mechanism is clariﬁed by a separate annealing experiment that does not involve a supply of activated atoms. These results highlight a simple and cost-effective approach for growing Janus MoSSe, which is more useful for fundamental studies and device applications.</dcterms:abstract>
+        <dc:date>2022-12</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41427-022-00363-x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:31:38</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 二维Janus MoSSe的单步原位生长法：无需前置或后处理</dc:description>
+        <bib:pages>15</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1884-4049,%201884-4057">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>18大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>14</prism:volume>
+        <dc:title>NPG Asia Materials</dc:title>
+        <dc:identifier>DOI 10.1038/s41427-022-00363-x</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>NPG Asia Mater</dcterms:alternative>
+        <dc:identifier>ISSN 1884-4049, 1884-4057</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3986">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3986/Jang 等 - 2022 - Growth of two-dimensional Janus MoSSe by a single in situ process without initial or follow-up treat.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pnas.org/doi/full/10.1073/pnas.2122952119">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0027-8424,%201091-6490"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Shengnan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Jianfeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Chong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Baishun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenName>Haiqing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duan</foaf:surname>
+                        <foaf:givenName>Wenhui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3995"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/unread</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Interplay between quantum anomalous Hall effect and magnetic skyrmions</dc:title>
+        <dcterms:abstract>Significance
+            
+              Quantum anomalous Hall effect (QAHE) and magnetic skyrmion (SK), as two typical topological states in momentum (
+              K
+              ) and real (
+              R
+              ) spaces, attract much interest in condensed matter physics. However, the interplay between these two states remains to be explored. We propose that the interplay between QAHE and SK may generate an
+              RK
+              joint topological skyrmion (
+              RK
+              -SK), characterized by the SK surrounded by nontrivial chiral boundary states (CBSs). Furthermore, the emerging external field–tunable CBS in
+              RK
+              -SK could create additional degrees of freedom for SK manipulations, beyond the traditional SK. Meanwhile, external field can realize a rare topological phase transition between
+              K
+              and
+              R
+              spaces. Our work opens avenues for exploring unconventional quantum states and topological phase transitions in different spaces.
+            
+          , 
+            
+              Quantum anomalous Hall effect (QAHE) and magnetic skyrmion (SK) represent two typical topological states in momentum (
+              K
+              ) and real (
+              R
+              ) spaces, respectively. However, little is known about the interplay between these two states. Here, we propose that the coexistence of QAHE and SK may generate a previously unknown SK state, named the
+              RK
+              joint topological skyrmion (
+              RK
+              -SK), which is characterized by the SK surrounded by nontrivial chiral boundary states (CBSs). Interestingly, beyond the traditional SK state that can solely be used via creation or annihilation, the number and chirality of CBS in
+              RK
+              -SK can be tunable under external fields as demonstrated in Janus monolayer (ML) MnBi
+              2
+              X
+              2
+              Te
+              2
+              (
+              X
+              
+                
+                  =
+                
+              
+              S, Se), creating additional degrees of freedom for SK-state manipulations. Moreover, it is also found that external fields can induce a continuous topology phase transition from
+              K
+              -space QAHE to
+              R
+              -space SK in ML MnBi
+              2
+              X
+              2
+              Te
+              2
+              , providing an ideal platform to understand the cross-over phenomena of multiple-space topologies.</dcterms:abstract>
+        <dc:date>2022-05-17</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pnas.org/doi/full/10.1073/pnas.2122952119</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-01-10 14:34:36</dcterms:dateSubmitted>
+        <dc:description>titleTranslation: 量子反常霍尔效应与磁性斯格明子的相互作用</dc:description>
+        <bib:pages>e2122952119</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0027-8424,%201091-6490">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>32大致</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>119</prism:volume>
+        <dc:title>Proceedings of the National Academy of Sciences</dc:title>
+        <dc:identifier>DOI 10.1073/pnas.2122952119</dc:identifier>
+        <prism:number>20</prism:number>
+        <dcterms:alternative>Proc. Natl. Acad. Sci. U.S.A.</dcterms:alternative>
+        <dc:identifier>ISSN 0027-8424, 1091-6490</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3995">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3995/Li 等 - 2022 - Interplay between quantum anomalous Hall effect and magnetic skyrmions.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4003">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>31大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>PHYSICAL REVIEW B</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenName>Jinghua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3999"/>
+        <dc:title>Very large Dzyaloshinskii-Moriya interaction in two-dimensional Janus manganese dichalcogenides and its application to realize skyrmion states</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>titleTranslation: 二维Janus锰二硫族化合物中巨大的Dzyaloshinskii-Moriya相互作用及其在实现斯格明子态中的应用</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3999">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3999/Liang - 2020 - Very large Dzyaloshinskii-Moriya interaction in two-dimensional Janus manganese dichalcogenides and.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4004">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>29大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>PHYSICAL REVIEW B</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>San-Dong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4000"/>
+        <dc:title>Strain effects on the topological and valley properties of the Janus monolayer VSiGeN$_4$</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>titleTranslation: 应变对Janus单层VSiGeN$_4$拓扑及能谷特性的影响</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4000">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4000/Guo - 2022 - Strain effects on the topological and valley properties of the Janus monolayer VSiGeN$_4$.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4005">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>26大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>PHYSICAL REVIEW B</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Tao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4001"/>
+        <dc:title>Intrinsic and anisotropic Rashba spin splitting in Janus transition-metal dichalcogenide monolayers</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>titleTranslation: Janus过渡金属二硫族化合物单层中的本征且各向异性的Rashba自旋劈裂</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4001">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4001/Hu - 2018 - Intrinsic and anisotropic Rashba spin splitting in Janus transition-metal dichalcogenide monolayers.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4006">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>23大致</dc:title></bib:Series>
+                </dcterms:isPartOf>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Si</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bai</foaf:surname>
+                        <foaf:givenName>Yizhen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Jijun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4002"/>
+        <dc:title>Enhanced piezoelectric effect in Janus group-III chalcogenide monolayers</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>待翻译文本：Janus型III族硫属化合物单层中的压电效应增强
+titleTranslation: Janus型III族硫属化合物单层中的压电效应增强</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4002">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4002/Guo 等 - Enhanced piezoelectric effect in Janus group-III chalcogenide monolayers.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
